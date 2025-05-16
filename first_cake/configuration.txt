@@ -1,0 +1,62 @@
+############################# Frame #############################
+Model: MAK4 V2 7inch
+Frame structure: X-Type
+Wheelbase: 295mm
+Weight: 185g 
+packing: electrostatic bag
+Size: 230.35mm * 278.52mm
+Bottom plate thickness: 3.0mm
+Medium plate thickness: 3.0mm
+Upper plate thickness: 2.0mm
+Arm thickness: 6.0mm
+Connecting plate: 2.0mm
+Camera side plate thickness: 2.5mm
+Camera installation hole spacing: 19mm
+Image transmission installation hole spacing: 20*20mm & 30.5*30.5mm
+Flight control installation hole spacing: 20*20mm & 30.5*30.5mm
+Inner space height: 35mm
+Motor installation hole position: 16*16mm & 19*19mm
+Link: https://www.aliexpress.com/item/1005007488978015.html?spm=a2g0o.order_detail.order_detail_item.9.5e26f19cvqwSjz
+Nodes:
+
+############################# FC #############################
+F405 V3 Flight Control FC
+Project Name: F405 V3 Flight Controller
+Size: 36x36mm
+Weight: 13g
+Installation hole: 30.5x30.5mm
+STM32 F405 microcontroller
+Dshot support
+Drag and drop OSD configured through Betaflight
+Gyroscope: MPU6500
+Supports receivers such as ELRS/CRSF/SBUS/IBUS PPM/Spketorum DSMX, etc
+MicroSD card black box
+BEC: 5V3A/9V3A
+Car video filter (only 5V to VTX and camera)
+Suitable models: 5 inches, 6 inches, 7 inches, 8 inches, 9 inches, 10 inches, 13 inches, 15 inches, traversing aircraft/drones, etc
+Please note: The F405 flight controller only supports Betaflight software and does not support INAV firmwa
+Link: https://www.aliexpress.com/item/1005008170044903.html?spm=a2g0o.order_detail.order_detail_item.5.5e26f19cvqwSjz
+Nodes:
+
+############################# ESC #############################
+60A V3 4in1 ESC HV 2-6S 
+Size: 41 * 39 * 5mm
+Aperture: 30.5 * 30.5mm (after installing the shock absorber ball, the aperture is 3mm)
+Firmware: BLHELI-S
+Weight: 15g
+Input voltage: LIPO 2-6S
+Continuous current: 60A
+Maximum current: 65A (10 seconds)
+Processor: EF8BB21
+Drive signal support: DShot150-300-600/Multishot/Oneshot/PMW
+Current sensor: supports
+Link: https://www.aliexpress.com/item/1005008170044903.html?spm=a2g0o.order_detail.order_detail_item.5.5e26f19cvqwSjz
+Nodes:	Under BLHELI-S Firmware doesn't work biderectional DShot.
+		Under Bluejay firmware biderectional DShot works but only DSHOT300 protocol can be setuped,
+		every time when try to save DSHOT600 after reconect it reset to DSHOT300
+
+Motors:
+RX:
+VTX+Antena:
+Buzzer:
+GPS:
