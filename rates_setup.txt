@@ -1,1 +1,2 @@
-1. Start with 150 center sensitivity for Roll, Pitch, Yaw
+1. Start with 150 deg/sec center sensitivity for Roll, Pitch, Yaw
+2. Up sesitivity to feel comfortable controll over drone but not very sharp. 
