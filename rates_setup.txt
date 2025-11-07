@@ -1,0 +1,1 @@
+1. Start with 150 center sensitivity for Roll, Pitch, Yaw
